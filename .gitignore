@@ -1,0 +1,8 @@
+configs/**/*
+tmp/*
+vendor/*
+wars/*
+*.jar
+*.war
+*.zip
+*.class
