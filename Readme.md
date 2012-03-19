@@ -10,11 +10,19 @@ Rubyzip gem.
 
     gem install rubyzip
 
-### To create a jar file
+### To run via Ruby
+
+    ruby jmt_cms_configurator.rb
+or
+
+    ruby jmt_cms_configurator.rb cfig1 cfig2
+
+### To run via Java
+
+Create the jar file first.
 
     rake to_jar
-
-### To run via java
+Then
 
     java -jar jmt_cms_configurator.jar
 or
