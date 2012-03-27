@@ -1,3 +1,4 @@
+@echo off
 rem Make copies of the war file each configured for a different database.
 rem ---------------------------------------------------------------------
 rem
@@ -29,4 +30,4 @@ rem which points to the relevant database.
 rem
 rem New war files will be created in the "wars" subdir.
 
-java -jar jmt_cms_conigurator.jar
+java -jar jmt_cms_configurator.jar
